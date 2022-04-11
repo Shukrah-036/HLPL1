@@ -8,6 +8,8 @@
    After each swap that compiled, print the value of the arguments after the call to see if they were actually swapped.*/
 #include "std_lib_facilities.h"
 
+using namespace std;
+
 void swap_v(int a, int b)
 {
         int temp;
